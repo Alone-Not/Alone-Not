@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Alone-Not
+# 👋 Hi, I’m ALFA
 
 - 👀 I’m interested in **software development**, **programming languages**, and **web development**.
 - 🌱 I’m currently learning **Python**, **Twilio API**, and exploring **web development frameworks**.
